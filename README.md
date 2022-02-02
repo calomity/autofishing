@@ -1,2 +1,2 @@
 # autofishing
-rina roleplay balık botu
+balık botu
